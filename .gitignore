@@ -1,6 +1,7 @@
 *.csv
 *.txt
-
+*.pickle
+*.xls*
 
 # Windows image file caches
 Thumbs.db
